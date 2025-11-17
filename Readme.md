@@ -422,7 +422,7 @@ Found a bug? Please open an issue with:
 - **GitHub**: [@DanEinstein](https://github.com/DanEinstein)
 - **Project Link**: [https://github.com/DanEinstein/ajieasy](https://github.com/DanEinstein/ajieasy)
 - **Live Demo**: [https://aji-easy-frontend.vercel.app/](https://aji-easy-frontend.vercel.app/)
-- **Email**: [your.email@example.com]
+- **Email**: [githukadanson23@gmail.com]
 
 ### **Support**
 
@@ -492,9 +492,6 @@ If AjiEasy helped you prepare for your interviews or you believe in our mission:
 
 ## 📈 Success Stories
 
-> "AjiEasy helped me prepare for my dream job interview. The AI-generated questions were spot-on and the feedback was invaluable!" - *Future User*
-
-> "As an HR professional, I recommend AjiEasy to all our candidates. It significantly improves their interview performance." - *Future HR Partner*
 
 *Have a success story? [Share it with us!](https://github.com/DanEinstein/ajieasy/discussions)*
 
